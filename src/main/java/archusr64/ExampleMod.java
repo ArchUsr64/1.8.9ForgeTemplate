@@ -1,4 +1,4 @@
-package studio.dreamys;
+package archusr64;
 
 import net.minecraft.init.Blocks;
 import net.minecraftforge.fml.common.Mod;
